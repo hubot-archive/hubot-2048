@@ -4,15 +4,15 @@
 # Commands:
 #   hubot 2048 me - Start a game of 2048
 #   hubot 2048 <direction> - Move tiles in a <direction>
-# hubot 2048 reset - Resets the current game of 2048
-# hubot 2048 stop - Stops the current game of 2048
+#   hubot 2048 reset - Resets the current game of 2048
+#   hubot 2048 stop - Stops the current game of 2048
 #
 # Notes:
-# Direction Commands:
-#   u(p) - up
-#   d(own) - down
-#   l(eft) - left
-#   r(ight) - right
+#   Direction Commands:
+#     u(p) - up
+#     d(own) - down
+#     l(eft) - left
+#     r(ight) - right
 #
 # Author:
 # whyjustin
