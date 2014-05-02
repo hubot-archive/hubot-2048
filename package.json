@@ -1,8 +1,8 @@
 {
-  "name": "hubot-example",
-  "description": "An example script pacakage for Hubot",
+  "name": "hubot-2048",
+  "description": "A 2048 Game Engine for Hubot",
   "version": "1.0.0",
-  "author": "Tom Bell <tomb@tomb.io>",
+  "author": "Justin Young <jry@ucla.edu>",
   "license": "MIT",
 
   "keywords": [
@@ -12,11 +12,11 @@
 
   "repository": {
     "type": "git",
-    "url": "git://github.com/hubot-scripts/hubot-example.git"
+    "url": "git://github.com/whyjustin/hubot-2048.git"
   },
 
   "bugs": {
-    "url": "https://github.com/hubot-scripts/hubot-example/issues"
+    "url": "https://github.com/whyjustin/hubot-2048/issues"
   },
 
   "dependencies": {
