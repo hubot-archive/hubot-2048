@@ -9,7 +9,7 @@ Usage
 -----
 ```
 hubot 2048 me - Start a game of 2048
-hubot 2048 &gt;direction&lt; - Move tiles in a &gt;direction&lt;
+hubot 2048 <direction> - Move tiles in a <direction>
 hubot 2048 reset - Resets the current game of 2048
 hubot 2048 stop - Stops the current game of 2048
 ```
