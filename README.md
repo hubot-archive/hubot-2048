@@ -1,8 +1,8 @@
-# Hubot Example
+# Hubot 2048
 
-An example script package for Hubot
+A 2048 Game Engine for Hubot
 
-[![Build Status](https://travis-ci.org/hubot-scripts/hubot-example.png)](https://travis-ci.org/hubot-scripts/hubot-example)
+[![Build Status](https://travis-ci.org/whyjustin/hubot-2048.png)](https://travis-ci.org/whyjustin/hubot-2048)
 
 ## Directory Structure
 
