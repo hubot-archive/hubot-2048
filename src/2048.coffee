@@ -15,7 +15,7 @@
 #     r(ight) - right
 #
 # Author:
-# whyjustin
+#   whyjustin
 
 
 # Copyright (c) 2014 Justin Young
