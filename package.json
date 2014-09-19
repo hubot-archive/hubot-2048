@@ -1,37 +1,30 @@
 {
   "name": "hubot-2048",
   "description": "A 2048 Game Engine for Hubot",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Justin Young <jry@ucla.edu>",
   "license": "MIT",
-
   "keywords": [
     "hubot",
     "hubot-scripts"
   ],
-
   "repository": {
     "type": "git",
     "url": "https://github.com/hubot-scripts/hubot-2048"
   },
-
   "bugs": {
     "url": "https://github.com/hubot-scripts/hubot-2048/issues"
   },
-
   "dependencies": {
     "coffee-script": "~1.6"
   },
-
   "devDependencies": {
     "mocha": "*",
     "chai": "*",
     "sinon-chai": "*",
     "sinon": "*"
   },
-
   "main": "index.coffee",
-
   "scripts": {
     "test": "script/test"
   }
