@@ -12,11 +12,11 @@
 
   "repository": {
     "type": "git",
-    "url": "git://github.com/whyjustin/hubot-2048.git"
+    "url": "https://github.com/hubot-scripts/hubot-2048"
   },
 
   "bugs": {
-    "url": "https://github.com/whyjustin/hubot-2048/issues"
+    "url": "https://github.com/hubot-scripts/hubot-2048/issues"
   },
 
   "dependencies": {
